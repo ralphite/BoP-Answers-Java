@@ -1,4 +1,4 @@
-// bop 3.4
+// bop 3.6
 
 public class LinkedListUtils {
     public void checkIntersection(LinkedNode n1, LinkedNode n2) {
